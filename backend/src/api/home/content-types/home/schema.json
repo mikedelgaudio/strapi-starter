@@ -28,6 +28,11 @@
     },
     "mediatag": {
       "type": "string"
+    },
+    "test": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.button"
     }
   }
 }

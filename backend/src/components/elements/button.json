@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_elements_buttons",
+  "info": {
+    "displayName": "button",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "compact": {
+      "type": "boolean",
+      "default": false
+    },
+    "appearance": {
+      "type": "string"
+    }
+  }
+}
